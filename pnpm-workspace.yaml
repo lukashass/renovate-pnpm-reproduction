@@ -1,0 +1,5 @@
+packages:
+    #  Packages
+    - "packages/db/**"
+    - "packages/config/**"
+    - "packages/**"
