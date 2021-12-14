@@ -22,9 +22,9 @@ importers:
 
   packages/package-1:
     specifiers:
-      typescript: 4.1.5
+      typescript: 4.5.4
     dependencies:
-      typescript: 4.1.5
+      typescript: 4.5.4
 
 packages:
 
@@ -583,8 +583,8 @@ packages:
     engines: {node: '>=10'}
     dev: false
 
-  /typescript/4.1.5:
-    resolution: {integrity: sha512-6OSu9PTIzmn9TCDiovULTnET6BgXtDYL4Gg4szY+cGsc3JP1dQL8qvE8kShTRx1NIw4Q9IBHlwODjkjWEtMUyA==}
+  /typescript/4.5.4:
+    resolution: {integrity: sha512-VgYs2A2QIRuGphtzFV7aQJduJ2gyfTljngLzjpfW9FoYZF6xuw1W0vW9ghCKLfcWrCFxK81CSGRAvS1pn4fIUg==}
     engines: {node: '>=4.2.0'}
     hasBin: true
     dev: false
